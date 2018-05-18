@@ -1,0 +1,26 @@
+<annotation>
+	<folder>toothpaste</folder>
+	<filename>toothpaste0380.jpg</filename>
+	<path>/home/hanming2805/datasets/images/toothpaste/toothpaste0380.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>toothpaste</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>197</ymin>
+			<xmax>420</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

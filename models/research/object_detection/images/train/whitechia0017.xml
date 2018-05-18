@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>whitechia0017.jpg</filename>
+	<path>/home/hanming2805/datasets/images/whitechia/images/whitechia0017.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>whitechia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>251</ymin>
+			<xmax>318</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>

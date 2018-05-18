@@ -1,0 +1,39 @@
+item {
+  id: 1
+  name: 'toothpaste'
+}
+
+item {
+  id: 2
+  name: 'tomatosoup'
+}
+
+item {
+  id: 3
+  name: 'soap'
+}
+
+item {
+  id: 4
+  name: 'maggi'
+}
+
+item {
+  id: 5
+  name: 'cookingoil'
+}
+
+item {
+  id: 6
+  name: 'jasminetea'
+}
+
+item {
+  id: 7
+  name: 'sardine'
+}
+
+item {
+  id: 8
+  name: 'whitechia'
+}

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>jasminetea0032.jpg</filename>
+	<path>/home/hanming2805/datasets/images/jasminetea/images/jasminetea0032.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jasminetea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>252</ymin>
+			<xmax>330</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

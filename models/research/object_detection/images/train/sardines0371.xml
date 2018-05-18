@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>sardines0371.jpg</filename>
+	<path>/home/hanming2805/datasets/images/sardine/frames/sardines0371.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sardine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>349</ymin>
+			<xmax>367</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+</annotation>

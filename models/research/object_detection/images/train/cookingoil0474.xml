@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>cookingoil0474.jpg</filename>
+	<path>/home/hanming2805/datasets/images/cookingoil/images/cookingoil0474.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cookingoil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>238</ymin>
+			<xmax>284</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>maggi</folder>
+	<filename>maggi0024.jpg</filename>
+	<path>/home/hanming2805/datasets/images/maggi/maggi0024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maggi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>199</ymin>
+			<xmax>354</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

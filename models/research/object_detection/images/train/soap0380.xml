@@ -1,0 +1,26 @@
+<annotation>
+	<folder>soap</folder>
+	<filename>soap0380.jpg</filename>
+	<path>/home/hanming2805/datasets/images/soap/soap0380.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>264</ymin>
+			<xmax>344</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

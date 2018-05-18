@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tomatosoup</folder>
+	<filename>tomatosoup0481.jpg</filename>
+	<path>/home/hanming2805/datasets/images/tomatosoup/tomatosoup0481.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomatosoup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>128</ymin>
+			<xmax>358</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>
