@@ -1,3 +1,3 @@
 # tensorflow-objectdetectionapi
 
-models > research > objectdepection
+models > research > object detection
